@@ -1,45 +1,191 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Sionnach Scenes,(Silliness) and Sundries
+---
+### What does the fox see?
+---
+---
+Sionnach Scenes, Silliness and Sundries is a combination of Sionnach Scenes and Sionnach Silliness and Sundries. 
 
-Welcome USER_NAME,
+#### Sionnach Scenes  
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Sionnach Scenes is a story prompt site where users can add to the original story prompt and users can take turns telling the story in the same thread, or start a new thread that continues from the same original prompt and take turns telling a new version. 
 
-## Gitpod Reminders
+#### Sionnach Silliness and Sundries 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Sionnach Silliness and Sundries is a satirical store jokingly selling things that either don’t really exist, or at least not in a way they can be packaged and sold. Many of the products are based on old jokes or puns.
 
-`python3 -m http.server`
+This store is for a project for school and won’t actually charge customers for it’s fictitious merchandise.
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+---
+---
+## UX
+---
+---
+### Project Goals
+---
+Sionnach Scenes, Silliness and Sundries allows the site owner a place to share and connect with others over story and light hearted humour.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The Scenes side will allow for imaginative banter and stories while the Silliness and Sundries will be joke products based mostly on old jokes or puns.
 
-A blue button should appear to click: *Make Public*,
+---
+#### Target Audience
+---
 
-Another blue button should appear to click: *Open Browser*.
+##### Sionnach Scenes
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+The target audiences:
 
-## Updates Since The Instructional Video
+Users:
+-	Writers who are...	
+	-	of all levels but mostly amatuer and aspiring
+-	looking for inspiration
+-	looking for a creative outlet
+-	looking for a writing community
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+-	Readers who are... 
+	- 	interested in reading short stories
+	-	interested in reading ongoing projects
+	- 	interested in reading less professional writing
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Site Owner:
+-	Readers or writers who are…
+-	interested in cultivating more of an interest in writing in themselves and 
+ 	others
+-	interested in getting their own ideas out there
+-	interested in building a community around writing
+-	interesting in reading others takes on story prompts
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+###### Silliness and Sundries
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+The target audiences:
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+-	Users would be people who…
+	-	enjoy a good pun or satire
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+-	Site Owner:
+    -	enjoys a good pun and satire
+    -	enjoys making people laugh
 
---------
+ 
+---
+#### User Stories
 
-Happy coding!
+To navigate to the User Stories please click the links below or find them in the [Documentation Folder]() for this page.
+
+- [Sionnach Scenes: User Stories]() 
+- [Sionnach Silliness and Sundries: User Stories]()
+
+---
+---
+### Design Choices
+---
+---
+#### Fonts
+
+My fonts for this site are []() and []() and came from [Google Fonts](https://fonts.google.com/).
+
+#### Icons
+
+The icons used were the [Font Awesome](https://fontawesome.com/) icons. 
+ 
+#### Styling
+
+Colours were chosen with the help of [Adobe Color](https://color.adobe.com/create/color-wheel).
+
+---
+---
+ ### Wireframes
+ ---
+ ---
+
+To navigate to the Wireframes please click the links below or find them in the [Documentation Folder]() for this page.
+
+- [Sionnach Scenes: Wireframes]() 
+- [Sionnach Silliness and Sundries: Wireframes]()
+
+ 
+---
+---
+
+## Features
+---
+---
+
+### Current Features
+---
+
+
+---
+### Features Left to Implement
+---
+In future I would like this site to have:
+
+If this site went live I would have the checkout in Silliness and Sundries as a donation page to a drop down list of charities.
+
+---
+---
+## Technologies Used
+---
+---
+
+#### Tools:
+
+- [Balsalmiq](https://balsamiq.com/) to make the wireframes
+- [PIP](https://pip.pypa.io/en/stable/installing/) for installation of tools needed in this project
+- [GitHub](https://github.com/) to store and share all project code remotely
+- [Gitpod](https://www.gitpod.io/) to compile and create code
+- [Dillinger](https://dillinger.io/0) to make this readme file
+- [Stripe](https://stripe.com/en-ie) to accept and manage payments
+- [Amazon Web Services S3](https://aws.amazon.com/) to store static and media files
+- [Heroku](https://dashboard.heroku.com/apps) to build, run, and operate applications entirely in the cloud. To allow Flask, Python, Jinja, Github to work together
+- [Pin Clip Art](https://www.pinclipart.com/) used for royalty free clip art
+
+#### Libraries
+
+- [JQuery](https://jquery.com/) to simplify DOM manipulation
+- [Bootstrap](https://getbootstrap.com/) to simplify the structure of the website and make the website responsive easily
+- [FontAwesome](https://www.bootstrapcdn.com/fontawesome/) to provide icons for The Essential Oil Database
+- [PyMongo](https://api.mongodb.com/python/current/) to make communication between Python and MongoDB possible
+- [Flask](https://flask.palletsprojects.com/en/1.0.x/) to construct and render pages
+- [Jinja](http://jinja.pocoo.org/docs/2.10/) to simplify displaying data from the backend of this project smoothly and effectively in html
+
+#### Languages
+
+This project uses HTML, CSS, JavaScript, Django, and Python programming languages.
+
+---
+---
+## Testing
+---
+---
+
+Testing information can be found in a separate [testing.md](https://github.com/Gwen-of-lynn/ ) file.
+
+---
+---
+## Deployment
+---
+---
+I deployed this page from Github to Heroku. Heroku has already made a video on how to do this, which I have linked below.
+
+[Heroku Deployment Methods](https://www.youtube.com/watch?v=fW3yWiRd4E4)
+
+---
+---
+## Credits and Acknowledgements
+---
+---
+
+For this project I followed a tutorial from Code Institute for Boutique Ado and adapted for my own ECommerce project, styling and project needs. 
+
+The structure of this readme is based on [A Greave’s Picflip and Familyhub readme files](https://github.com/AJGreaves).
+ 
+##### Special thanks to:
+Aaron Sinnott, my mentor for this milestone project.
+
+##### Disclaimer:
+
+Sionnach Silliness and Sundries was a satirical page made for Code Institute’s Milestone Project 4 and won’t actually charge customers for it’s fictitious merchandise.
+ 
